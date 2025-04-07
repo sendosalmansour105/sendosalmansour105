@@ -18,9 +18,7 @@
   <a href="https://www.facebook.com/rita.ibrahim.526875?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=187712&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"  />
   </a>
-  <a href="sendosalmansour48@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=714123&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
-  </a>
+ 
 </div>
 
 ###
