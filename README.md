@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi there, My name is Sendos👋</h2>
+<h2 align="center">Hi there, My name is Sendos👋</h2>
 
 ###
 
